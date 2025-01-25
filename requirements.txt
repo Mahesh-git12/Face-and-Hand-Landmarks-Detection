@@ -1,0 +1,5 @@
+Python 3.6 or higher
+Libraries:
+mediapipe
+opencv-python
+msvc-runtime
